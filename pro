@@ -1,5 +1,6 @@
 local ids = {
 	1535827133, -- Hanki
+	3633283742, -- Hanki2 :scream:
 	1547918564, -- orosbu quest
 	2482958202, -- ismet 31
 	1598687225, -- batumasyon :scream:
