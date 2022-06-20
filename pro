@@ -9,6 +9,7 @@ local ids = {
 	1182233444, -- egehan313131
 	2310420760, -- ege31
 	2573191265, -- alexbabapiro :scream:
+	2062885337, -- premium buyer: .light :scream:
 	2870641005 -- premium buyer1: monkey
 
 }
