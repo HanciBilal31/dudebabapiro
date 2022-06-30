@@ -1,0 +1,6 @@
+local kool = {
+    "sunglasses"
+
+}
+
+return kool
